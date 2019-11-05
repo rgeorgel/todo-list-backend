@@ -12,3 +12,5 @@ server.listen(
     console.log(`Todo-list Backend is running on port ${port}`);
   }
 );
+
+module.exports = server;
